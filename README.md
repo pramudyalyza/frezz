@@ -10,7 +10,7 @@ The dataset used to train the CNN model in Frezz was sourced from [Kaggle](https
 
 **Contributors** <br>
 This project was completed as a group project for the Artificial Intelligence course. The contributors are:
-* @shafamira
-* @pramudyalyza
+* [Shafa Amira](https://github.com/shafamira)
+* [Alyza Pramudya](https://github.com/pramudyalyza)
 * Dierta Pasific
 * Jacqueline Abyasa
